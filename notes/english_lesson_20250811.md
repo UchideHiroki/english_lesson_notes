@@ -67,8 +67,8 @@ Round A
 
 Round B
 4) 自然な語: fermentation foods → ________
-5) 前置詞: Could you run it _**Legal and see what they have to say?
-6) 言い換え: Talk**_ your manager（to/with）
+5) 前置詞: Could you run it ***Legal and see what they have to say?
+6) 言い換え: Talk*** your manager（to/with）
 
 Round C
 7) 語彙: 「不幸中の幸い」→ ________
