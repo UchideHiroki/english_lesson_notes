@@ -2,9 +2,9 @@ name: Markdown Lint
 
 on:
   pull_request:
-    branches: [main, master]
+    branches: [main]
   push:
-    branches: [main, master, "feature/**"]
+    branches: [main]
 
 jobs:
   markdown-lint:
