@@ -1,0 +1,27 @@
+name: Markdown Lint
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+jobs:
+  markdown-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run markdownlint-cli2
+        run: |
+          npx markdownlint-cli2 --fix "**/*.md"
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "❌ Markdown formatting issues found!"
+            echo "Please run 'markdownlint-cli2 --fix \"**/*.md\"' locally and commit the changes."
+            git diff --name-only
+            exit 1
+          fi

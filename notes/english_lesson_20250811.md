@@ -67,8 +67,8 @@ Round A
 
 Round B
 4) 自然な語: fermentation foods → ________
-5) 前置詞: Could you run it _**Legal and see what they have to say?
-6) 言い換え: Talk**_ your manager（to/with）
+5) 前置詞: Could you run it ***Legal and see what they have to say?
+6) 言い換え: Talk*** your manager（to/with）
 
 Round C
 7) 語彙: 「不幸中の幸い」→ ________
@@ -260,7 +260,7 @@ At the next all‑hands, I’m going to bring up three agenda items:
   - He was formally reprimanded for violating the policy.
 
 - issue a reprimand over/for + 名詞（名詞句・公式調）
-- HR issued a reprimand over the incident.
+  - HR issued a reprimand over the incident.
 
 - scold someone for + 名詞/動名詞（口語・子ども/部下に使われがち）
   - She scolded him for being late again.
