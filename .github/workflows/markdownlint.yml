@@ -1,88 +1,27 @@
-name: Markdown Lint Check
+name: Markdown Lint
 
 on:
-  # PRが作成された時
   pull_request:
-    branches: [ main, master ]
-  
-  # リモートにコミットした時
+    branches: [main, master]
   push:
-    branches: [ main, master, 'feature/**' ]
-  
-  # PRがマージされた時
-  pull_request:
-    types: [closed]
-    branches: [ main, master ]
+    branches: [main, master, "feature/**"]
 
 jobs:
-  markdownlint:
-    name: Markdown Lint
+  markdown-lint:
     runs-on: ubuntu-latest
-    
-    # PRがマージされた場合のみ実行（pull_request.closedイベントの場合）
-    if: github.event_name != 'pull_request' || github.event.action != 'closed' || github.event.pull_request.merged == true
-    
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
         with:
-          fetch-depth: 0
-      
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-          cache: 'npm'
-      
-      - name: Install markdownlint-cli2
-        run: npm install -g markdownlint-cli2
-      
-      - name: Check for existing changes
-        id: check_changes
+          node-version: "20"
+
+      - name: Run markdownlint-cli2
         run: |
-          # 実行前の状態を記録
-          git status --porcelain > /tmp/before_status
-          echo "Changes before linting:"
-          cat /tmp/before_status
-      
-      - name: Run markdownlint with fix
-        run: |
-          echo "Running markdownlint-cli2 --fix on all markdown files..."
-          markdownlint-cli2 --fix "**/*.md"
-      
-      - name: Check for changes after linting
-        id: check_diff
-        run: |
-          # 実行後の変更をチェック
-          git status --porcelain > /tmp/after_status
-          echo "Changes after linting:"
-          cat /tmp/after_status
-          
-          # 差分があるかチェック
+          npx markdownlint-cli2 --fix "**/*.md"
           if [ -n "$(git status --porcelain)" ]; then
-            echo "has_changes=true" >> $GITHUB_OUTPUT
-            echo "Markdown formatting issues found:"
+            echo "❌ Markdown formatting issues found!"
+            echo "Please run 'markdownlint-cli2 --fix \"**/*.md\"' locally and commit the changes."
             git diff --name-only
-            git diff
-          else
-            echo "has_changes=false" >> $GITHUB_OUTPUT
-            echo "No markdown formatting issues found."
+            exit 1
           fi
-      
-      - name: Fail if changes were made
-        if: steps.check_diff.outputs.has_changes == 'true'
-        run: |
-          echo "❌ Markdown linting found formatting issues!"
-          echo "Please run 'markdownlint-cli2 --fix \"**/*.md\"' locally and commit the changes."
-          echo ""
-          echo "Files that need formatting:"
-          git diff --name-only
-          echo ""
-          echo "Diff:"
-          git diff
-          exit 1
-      
-      - name: Success message
-        if: steps.check_diff.outputs.has_changes == 'false'
-        run: |
-          echo "✅ All markdown files are properly formatted!"
