@@ -13,7 +13,7 @@
 - [2025-08-12] Source: `english_lesson_notes/notes/english_lesson_20250812.md` >
   クイッククイズ（Q19）
   - It’s {{c1::a}} long shot to get {{c2::executive}} buy‑in.（× the long shot /
-    × the executive buy‑in） (Correct: 0)
+    × the executive buy‑in） (Correct: 2)
 
 - [2025-08-12] Source: `english_lesson_notes/notes/english_lesson_20250812.md` >
   Anki復習クイズ
@@ -29,7 +29,7 @@
 - [2025-08-11] Source: `english_lesson_notes/notes/english_lesson_20250811.md` >
   New words / phrases
   - Avoid “carry someone’s cross” → {{c1::lighten someone’s load}}.
-    (Correct: 0)
+    (Correct: 1)
 
 - [2025-08-11] Source: Chat (Q13)
   - I had coffee with an engineer from another company. He’s my
@@ -44,22 +44,22 @@
     (meeting).（× old hands） (Correct: 0)
 
 - [2025-08-11] Source: Chat (Q47)
-  - Overworking can take a toll {{c1::on}} your health.（× to） (Correct: 0)
+  - Overworking can take a toll {{c1::on}} your health.（× to） (Correct: 2)
 
 - [2025-08-11] Source: Chat (Q48)
   - He had to {{c1::plow}} through a huge backlog of tasks.（BrE:
-    {{c2::plough}}／× plaw） (Correct: 0)
+    {{c2::plough}}／× plaw） (Correct: 1)
 
 - [2025-08-11] Source: Chat (Q58)
   - We need to align expectations {{c1::with}} our current capacity.
-    (Correct: 0)
+    (Correct: 1)
 
 - [2025-08-11] Source: Chat (Q59)
   - He decided to opt {{c1::in}} {{c2::to}} the marketing emails.（= opt into）
     (Correct: 0)
 
 - [2025-08-11] Source: Chat (opt in/out usage)
-  - We {{c1::opted in to}} the beta.（= opted into） (Correct: 0)
+  - We {{c1::opted in to}} the beta.（= opted into） (Correct: 1)
   - I {{c1::opted out of}} marketing emails.（× out from） (Correct: 0)
   - an {{c1::opt‑in}} policy / an {{c2::opt‑out}} checkbox（名詞/形容詞はハイフン、動詞は
     opt in/out） (Correct: 0)
@@ -74,22 +74,25 @@
   `english_lesson_notes/notes/english_lesson_20250815.md` > Vocabulary &
   Pronunciation
   - A person who gets anxiety from searching for health symptoms online is a
-    {{c1::cyberchondriac}}. (Correct: 0)
+    {{c1::cyberchondriac}}. (Correct: 1)
 
 - [2025-08-15] Source: `english_lesson_notes/notes/english_lesson_20250815.md` >
   Usage Notes
   - {{c1::Perseverant}} is a positive adjective for someone with admirable
     determination, while {{c2::persistent}} can sometimes mean stubborn or
-    annoying. (Correct: 0)
+    annoying. (Correct: 1)
 
 - [2025-08-15] Source:
   `english_lesson_notes/notes/english_lesson_20250815.md` > Vocabulary &
   Pronunciation
   - A job that makes you feel happy and satisfied is {{c1::fulfilling}}.
-    (Correct: 1)
+    (Correct: 2)
 
 - [2025-08-15] Source:
   `english_lesson_notes/notes/english_lesson_20250815.md` > Vocabulary &
   Pronunciation
   - You {{c1::recognize}} someone's effort, but you {{c2::congratulate}} them on
-    an achievement. (Correct: 0)
+    an achievement. (Correct: 1)
+
+- [2025-08-17] Source: Chat
+  - He was too {{c1::stubborn}} to admit he had made a mistake. (Correct: 0)

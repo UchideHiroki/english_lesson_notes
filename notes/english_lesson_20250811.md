@@ -260,7 +260,7 @@ At the next all‑hands, I’m going to bring up three agenda items:
   - He was formally reprimanded for violating the policy.
 
 - issue a reprimand over/for + 名詞（名詞句・公式調）
-- HR issued a reprimand over the incident.
+  - HR issued a reprimand over the incident.
 
 - scold someone for + 名詞/動名詞（口語・子ども/部下に使われがち）
   - She scolded him for being late again.

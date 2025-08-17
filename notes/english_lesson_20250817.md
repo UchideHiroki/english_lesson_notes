@@ -65,3 +65,67 @@ complete.
 * **Wring** is a more specific action that involves both **twisting and
   squeezing**. It's almost always used when you are trying to force liquid out
   of something, like wringing out a wet towel.
+
+---
+
+### Similar Phrases for "Lighten Someone's Load"
+
+* **Help shoulder the burden:** A very common and natural alternative.
+* **Lend a helping hand:** A general and friendly way to offer assistance.
+* **Ease the burden:** Similar to "lighten the load," it focuses on making a
+    difficult situation more manageable.
+* **Take some of the weight off someone's shoulders:** A slightly more
+    informal and empathetic way to say the same thing.
+* **Pitch in:** A colloquial term for joining in to help with a task.
+
+---
+
+### Vocabulary Clarification
+
+* **Admirable** (adjective): Deserving respect and approval. It's used for
+    something or someone you look up to because of their excellent qualities.
+  * *Example:* "Her dedication to the project was **admirable**."
+
+* **Stubborn** (adjective): Describes someone who is determined not to change
+    their mind or attitude, even when there are good reasons to. It often has a
+    negative feeling, suggesting the person is being unreasonable.
+  * *Example:* "He is too **stubborn** to listen to advice."
+
+---
+
+### Colleague vs. Co-worker vs. Peer
+
+* **Co-worker:** The most common term for someone who works at the **same
+    company** as you.
+  * *Example:* "I'm going to lunch with my **co-workers**."
+
+* **Colleague:** A broader term for someone in the same **profession or
+    field**, including those at other companies.
+  * *Example:* "I met several **colleagues** at the conference."
+
+* **Peer:** Focuses on someone at the same **status or level** as you.
+  * *Example:* "As a senior manager, I consult with my **peers**."
+
+---
+
+### Understanding "Perseverant"
+
+* **Core Meaning:** Describes a person who continues to pursue a goal despite
+    significant, long-term difficulties. It is an admirable quality.
+* **Link to Simpler Words:** Think of **Persistent + Severe**. You are
+    persistent even when facing severe challenges. The root verb is **to
+    persevere** (to not give up).
+* **Usage:** Best used for major, long-term challenges (e.g., a scientist
+    working for years on a cure, an entrepreneur building a company from
+    scratch).
+
+---
+
+### Understanding "Sedentary"
+
+* **Core Meaning:** Describes a lifestyle, job, or activity that involves a
+    lot of sitting and very little physical movement.
+* **Link to Simpler Words:** Connect it to the word **sit**. Mnemonic: "If you
+    **si**t all day, you have a **se**dentary lifestyle."
+* **Usage:** Used to describe jobs, lifestyles, or habits that lack physical
+    movement (e.g., a sedentary job, a sedentary lifestyle).

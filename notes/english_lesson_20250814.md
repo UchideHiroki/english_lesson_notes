@@ -1,4 +1,4 @@
-# English Lesson Notes (2025-08-15)
+# English Lesson Notes (2025-08-14)
 
 ## Vocabulary & Pronunciation
 
