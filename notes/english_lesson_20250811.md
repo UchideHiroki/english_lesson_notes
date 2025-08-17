@@ -5,22 +5,32 @@
 ---
 
 ## 直近の要点（覚える）
-- 談話標識: that said（譲歩・口語）/ however（対比強・書き言葉）/ on the other hand（別側面）
+
+- 談話標識: that said（譲歩・口語）/ however（対比強・書き言葉）/ on the other
+  hand（別側面）
 - 可算/不可算: fewer distractions / less distraction / less distracted（形容詞）
-- コロケーション: set realistic expectations / boost morale / lift their spirits / take a toll on your health
+- コロケーション: set realistic expectations / boost morale / lift their spirits /
+  take a toll on your health
 - 動詞/前置詞: opt for N / opt to V / run X by Y / see what they have to say
-- 用語: fermented foods / distinctive, even pungent, smell / face‑to‑face communication（不可算）
+- 用語: fermented foods / distinctive, even pungent, smell / face‑to‑face
+  communication（不可算）
 - 曜日の習慣: on Mondays（習慣）/ on Monday（特定日）
 
 ### 補足メモ
-- silver lining の前置詞は **to/in** が自然。that節で内容を受ける:  
-  The silver lining **to/in** the disaster was **that** there were no casualties.  
-  If there’s a silver lining **to** this delay, it’s **that** we have more time to prepare.
+
+- silver lining の前置詞は **to/in** が自然。that節で内容を受ける:
+  The silver lining **to/in** the disaster was **that** there were no
+  casualties.
+  If there’s a silver lining **to** this delay, it’s **that** we have more
+  time to prepare.
 - pungent は「鼻をつく匂い」（にんにく/わさび/ドリアン等）。spicy は「辛い味」。
-- face‑to‑face communication は不可算（単数）。例: Face‑to‑face communication is the most effective way to work as a team.
+- face‑to‑face communication は不可算（単数）。例: Face‑to‑face communication is
+  the most effective way to work as a team.
 
 ### メモ: key の型
-- key to + 名詞 / 動名詞（-ing）: the key to success / the key to understanding the issue
+
+- key to + 名詞 / 動名詞（-ing）: the key to success / the key to understanding the
+  issue
 - × key of success（音楽の key of C など特殊用法を除き不可）
 - 例: the key to sustaining learned phrases over the long term
 - 対応表現: solution/answer/approach to + 名詞（to は前置詞 → 後ろは名詞/動名詞）
@@ -28,29 +38,37 @@
 ---
 
 ## ミニ音読（各2回）
-- On the plus side, remote work improves focus; that said, collaboration can suffer.
+
+- On the plus side, remote work improves focus; that said, collaboration can
+  suffer.
 - Let’s run this by Legal and see what they have to say.
 - Overworking can take a toll on your health.
 
 ---
 
 ## コロケーション（暗唱）
-- set realistic expectations / boost morale / lift their spirits / take a toll on X
+
+- set realistic expectations / boost morale / lift their spirits / take a toll
+  on X
 - opt for full immersion / opt to immerse myself / talk to your manager
-- face‑to‑face communication / fewer distractions / a distinctive, even pungent, smell
+- face‑to‑face communication / fewer distractions / a distinctive, even
+  pungent, smell
 
 ---
 
 ## クイッククイズ（チャットで実施）
+
 Round A
+
 1) Full immersion is the key to ____ (sustain → ______).
-2) 別側面の提示: Remote work improves focus. ____ , on‑site work strengthens bonding.
+2) 別側面の提示: Remote work improves focus. ____ , on‑site work strengthens
+   bonding.
 3) 訂正: There is less distractions when I work from home.
 
 Round B
 4) 自然な語: fermentation foods → ________
-5) 前置詞: Could you run it ___ Legal and see what they have to say?
-6) 言い換え: Talk ___ your manager（to/with）
+5) 前置詞: Could you run it _**Legal and see what they have to say?
+6) 言い換え: Talk**_ your manager（to/with）
 
 Round C
 7) 語彙: 「不幸中の幸い」→ ________
@@ -60,16 +78,20 @@ Round C
 ---
 
 ## 30秒スピーキング（プロンプト）
-- On the plus side / That said / On the other hand の3つを入れて、リモートと出社の両面をまとめる。
+
+- On the plus side / That said / On the other hand
+  の3つを入れて、リモートと出社の両面をまとめる。
 
 ---
 
 ## 前置詞の勘所トレーニング（silver lining: to/in など）
+
 - 感覚ルール
   - of = 所有/属性（Yに内在するX）: the cost of living, the risk of failure
   - to = 関連/対象（Yに向かう/結び付く）: the solution/answer/approach to a problem
   - in = 枠組み/状況の内部（文脈の容器）: changes in policy, growth in sales
-  - 用法: the silver lining to/in the delay（事件に結び付く or その状況の内部にある良い側面）
+  - 用法: the silver lining to/in the delay（事件に結び付く or
+    その状況の内部にある良い側面）
 - 最頻コロケーション（覚える）
   - solution/answer/approach to X
   - impact/effect on X
@@ -82,9 +104,11 @@ Round C
     - 指標・領域には in: a decrease in costs / an increase in sales
     - 数値・割合・金額には of: a decrease of 10% / an increase of $2M
     - 併用: a decrease of 8% in costs
-    - 例: We observed a decrease in costs last quarter. / We observed a decrease of 8% in costs last quarter.
+    - 例: We observed a decrease in costs last quarter. / We observed a decrease
+      of 8% in costs last quarter.
 - ミニマルペア音読（各2回）
-  - the solution to the problem / the effect on productivity / an increase in price
+  - the solution to the problem / the effect on productivity / an increase in
+    price
   - experience with Kubernetes / expertise in data engineering
   - the silver lining to the delay / the silver lining in the delay
 - Ankiクロズ作成（例）
@@ -95,36 +119,50 @@ Round C
 ---
 
 ## Sentence refinements（提出文の最小修正＋自然化）
-1) I truly acknowledge your capacity and tenacity in handling your tasks recently.  
-→ I truly appreciate your capability and tenacity in handling your tasks lately.
 
-2) Don't be too hard on yourself. I believe you can influence your coworker's productivity.  
-→ Don't be too hard on yourself. I believe you can positively influence your coworkers' productivity.  
-（単数なら your coworker’s ／チーム全体なら your team’s productivity）
+1) I truly acknowledge your capacity and tenacity in handling your tasks
+   recently.
+   → I truly appreciate your capability and tenacity in handling your tasks
+   lately.
 
-3) There are multiple levels when providing support. First one being emotional support, next would be professional support, and lastly, taking off some load from a distressed coworker.  
-→ There are multiple levels of support: first, emotional support; next, professional support; and finally, workload relief—taking some load off a distressed coworker.
+2) Don't be too hard on yourself. I believe you can influence your coworker's
+   productivity.
+   → Don't be too hard on yourself. I believe you can positively influence your
+   coworkers' productivity.
+   （単数なら your coworker’s ／チーム全体なら your team’s productivity）
 
-4) He had to PLOUGH THROUGH tasks that are BEYOND HIS PAYGRADE.  
-→ He had to plow through tasks beyond his pay grade.  
-（BrE: plough / AmE: plow）“beyond my/your/his pay grade”＝権限範囲外・分不相応
+3) There are multiple levels when providing support. First one being emotional
+   support, next would be professional support, and lastly, taking off some
+   load from a distressed coworker.
+   → There are multiple levels of support: first, emotional support; next,
+   professional support; and finally, workload relief—taking some load off a
+   distressed coworker.
+
+4) He had to PLOUGH THROUGH tasks that are BEYOND HIS PAYGRADE.
+   → He had to plow through tasks beyond his pay grade.
+   （BrE: plough / AmE: plow）“beyond my/your/his pay grade”＝権限範囲外・分不相応
 
 Useful variants: work on the tasks / deal with the tasks / take on the tasks
 
 ---
 
 ## New words / phrases（定義と用法の是正）
-- consolidate: to make something stronger or more solid; to combine things into a more effective whole.  
+
+- consolidate: to make something stronger or more solid; to combine things into
+  a more effective whole.
   ex) Consolidate your notes into a single document.
-- carry someone's cross（宗教比喩）: to bear/endure a personal burden. 他人を助けるなら help shoulder the burden / lighten someone’s load が自然。
-- pay grade: a salary band or level of authority/responsibility.  
+- carry someone's cross（宗教比喩）: to bear/endure a personal burden. 他人を助けるなら
+  help shoulder the burden / lighten someone’s load が自然。
+- pay grade: a salary band or level of authority/responsibility.
   ex) This decision is above my pay grade.
 - constructive criticism（正）: 建設的な批評（提案・代替案を伴う）。
-- reprimand（正）: 叱責する。ex) My manager reprimanded me for missing the deadline.
+- reprimand（正）: 叱責する。ex) My manager reprimanded me for missing the
+  deadline.
 - coworker vs colleague: coworker（同じ勤務先・AmE寄り、ややカジュアル）/ colleague（同業・フォーマル）。
 - consecutive days（正）: 連続した日数。
 - consolidate（綴り確認）/ criticism（綴り確認）/ reprimanded（綴り確認）
-- segregated subject → 文脈次第。話題を分けるなら a separate topic / distinct topic。統制上の職務分離なら segregated duties / separation of duties。
+- segregated subject → 文脈次第。話題を分けるなら a separate topic / distinct
+  topic。統制上の職務分離なら segregated duties / separation of duties。
 
 - all‑hands (meeting): 全社/全チームの「全体会議」。
   - 前置詞: at the all‑hands（イベントで）/ in the all‑hands（会議の中で）。
@@ -154,11 +192,13 @@ Useful variants: work on the tasks / deal with the tasks / take on the tasks
 ## 最小修正例（all‑hands のアジェンダ英語）
 
 At the next all‑hands, I’m going to bring up three agenda items:
+
 1) I’d like to announce the latest product updates.
 2) I’d like to discuss our strategy for the next quarter.
 3) I’d like to cover user feedback.
 
 語法ポイント
+
 - agenda は不可算→項目は agenda items とする。
 - at the next all‑hands（イベントの場）
 - strategy for the next quarter（towards ではなく for）
@@ -166,10 +206,13 @@ At the next all‑hands, I’m going to bring up three agenda items:
 - 並列性の統一: I’d like to … で揃えると読みやすい。
 
 ### 語感ミニノート（短く覚える）
+
 - acknowledge = 事実・努力を認める（公式/客観）。例: We acknowledge your effort.
 - appreciate = 感謝と評価。例: I really appreciate your help/support.
-- recognize = 能力・功績を評価して認める（制度・表彰と相性）。例: The company recognized her contribution.
-- segregate は社会的な「隔離/分離」の含意が強い → 話題を分けるは separate/distinct topic。
+- recognize = 能力・功績を評価して認める（制度・表彰と相性）。例: The company recognized
+  her contribution.
+- segregate は社会的な「隔離/分離」の含意が強い → 話題を分けるは separate/distinct
+  topic。
 - pay grade: above/beyond my pay grade（権限外）≒ outside my remit/scope。
 - plough/plow through ≒ slog through / power through（難物を“こなす”ニュアンス）。
 
@@ -188,23 +231,25 @@ At the next all‑hands, I’m going to bring up three agenda items:
   - “opt into + 名詞” も可（in to/into はどちらも許容）。ex) We opted into the beta.
   - 動詞目的なら: opt in to receive updates / opt out of receiving updates.
 
-
 - opt against + 名詞/動名詞: 「〜しない」選択。
   - ex) She opted against taking the offer.
 
 - 極性（ポラリティ）
   - opt for + 名詞 = 採用（肯定の選択）: We opted for a Friday release.
-  - opt against + 名詞/動名詞 = 見送り（否定の選択）: We opted against releasing on Friday.
+  - opt against + 名詞/動名詞 = 見送り（否定の選択）: We opted against releasing on
+    Friday.
 
 - 比較（置き換えの目安）
-  - choose / go for / select + 名詞 ≈ opt for + 名詞（go for は口語、select はフォーマル/技術文）
+  - choose / go for / select + 名詞 ≈ opt for + 名詞（go for は口語、select
+    はフォーマル/技術文）
   - choose to / decide to + 動詞 ≈ opt to + 動詞（select to は不自然）
   - opt in/out/against は choose/go for では置換しづらい定型句。
 
 - よくある誤り
   - × opt for to do / × opt to for N
   - × opt out from X（→ opt out of X）
-  - 名詞/形容詞はハイフン形: an opt‑in policy / an opt‑out checkbox（動詞は opt in/out）
+  - 名詞/形容詞はハイフン形: an opt‑in policy / an opt‑out checkbox（動詞は opt
+    in/out）
 
 ---
 
@@ -220,7 +265,8 @@ At the next all‑hands, I’m going to bring up three agenda items:
 - scold someone for + 名詞/動名詞（口語・子ども/部下に使われがち）
   - She scolded him for being late again.
 
-- be angry with/at + 人 for + 理由（人に対して怒る）/ be angry about/at + 事柄（事に対して怒る）
+- be angry with/at + 人 for + 理由（人に対して怒る）/ be angry about/at +
+  事柄（事に対して怒る）
   - He was angry with me for forgetting the meeting.
   - She was angry about the delay.
 
@@ -240,5 +286,6 @@ At the next all‑hands, I’m going to bring up three agenda items:
   - He was mad at me for pushing the hotfix without review.
 
 メモ:
+
 - “for” は「理由/原因」を導く。叱責・注意の多くは for と強く結び付く。
 - about は「話題」。叱責の直接目的には不向き（talk/speak/complain about なら可）。
