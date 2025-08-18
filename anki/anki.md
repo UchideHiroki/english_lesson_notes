@@ -96,3 +96,12 @@
 
 - [2025-08-17] Source: Chat
   - He was too {{c1::stubborn}} to admit he had made a mistake. (Correct: 0)
+
+- [2025-08-19] Source: english_lesson_notes/notes/english_lesson_20250818.md > Vocabulary & Phrases
+  - We need to refrigerate the fruit and vegetables right away; they are very {{c1::perishable}}. (Correct: 0)
+
+- [2025-08-19] Source: english_lesson_notes/notes/english_lesson_20250818.md > Vocabulary & Phrases
+  - Our new intern is really {{c1::Gung-ho}} about the project; he volunteered to work on it all weekend. (Correct: 0)
+
+- [2025-08-19] Source: english_lesson_notes/notes/english_lesson_20250818.md > Vocabulary & Phrases
+  - The decision to build the new highway was highly {{c1::controversial}} and sparked protests across the state. (Correct: 0)
