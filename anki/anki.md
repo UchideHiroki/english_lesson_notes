@@ -19,12 +19,12 @@
   Anki復習クイズ
   - With two leads on {{c1::leave}}, the odds are stacked against us.（× on
     leaves） (Correct: 0)
-  - The chances are {{c1::slim to none}}.（× same to none） (Correct: 1)
+  - The chances are {{c1::slim to none}}.（× same to none） (Correct: 2)
 
 - [2025-08-11] Source: `english_lesson_notes/notes/english_lesson_20250811.md` >
   Sentence refinements
   - He had to {{c1::plow}} through tasks beyond his pay grade.（BrE:
-    {{c2::plough}}） (Correct: 1)
+    {{c2::plough}}） (Correct: 2)
 
 - [2025-08-11] Source: `english_lesson_notes/notes/english_lesson_20250811.md` >
   New words / phrases
@@ -37,14 +37,11 @@
 
 - [2025-08-11] Source: Chat (Q44)
   - I have hands‑on experience {{c1::with}} Kubernetes.（ツール/技術＝with／分野＝in）
-    (Correct: 0)
+    (Correct: 1)
 
 - [2025-08-11] Source: Chat (Q46)
   - The company recognized her contribution at the {{c1::all‑hands}}
-    (meeting).（× old hands） (Correct: 0)
-
-- [2025-08-11] Source: Chat (Q47)
-  - Overworking can take a toll {{c1::on}} your health.（× to） (Correct: 2)
+    (meeting).（× old hands） (Correct: 1)
 
 - [2025-08-11] Source: Chat (Q48)
   - He had to {{c1::plow}} through a huge backlog of tasks.（BrE:
@@ -52,7 +49,7 @@
 
 - [2025-08-11] Source: Chat (Q58)
   - We need to align expectations {{c1::with}} our current capacity.
-    (Correct: 1)
+    (Correct: 0)
 
 - [2025-08-11] Source: Chat (Q59)
   - He decided to opt {{c1::in}} {{c2::to}} the marketing emails.（= opt into）
@@ -68,7 +65,7 @@
   `english_lesson_notes/notes/english_lesson_20250815.md` > Vocabulary &
   Pronunciation
   - A {{c1::sedentary}} lifestyle involves little to no physical activity.
-    (Correct: 0)
+    (Correct: 1)
 
 - [2025-08-15] Source:
   `english_lesson_notes/notes/english_lesson_20250815.md` > Vocabulary &
@@ -95,7 +92,7 @@
     an achievement. (Correct: 1)
 
 - [2025-08-17] Source: Chat
-  - He was too {{c1::stubborn}} to admit he had made a mistake. (Correct: 0)
+  - He was too {{c1::stubborn}} to admit he had made a mistake. (Correct: 1)
 
 - [2025-08-19] Source: english_lesson_notes/notes/english_lesson_20250818.md > Vocabulary & Phrases
   - We need to refrigerate the fruit and vegetables right away; they are very {{c1::perishable}}. (Correct: 0)
