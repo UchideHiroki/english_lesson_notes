@@ -4,11 +4,11 @@
 
 - [2025-08-12] Source: `english_lesson_notes/notes/english_lesson_20250812.md` >
   クイッククイズ（Q12）
-  - Let’s {{c1::cut}} the fluff before the review.（× reduce） (Correct: 0)
+  - Let’s {{c1::cut}} the fluff before the review.（× reduce） (Correct: 1)
 
 - [2025-08-12] Source: `english_lesson_notes/notes/english_lesson_20250812.md` >
   クイッククイズ（Q13）
-  - Fluff means {{c1::superficial}} content (adds little value). (Correct: 1)
+  - Fluff means {{c1::superficial}} content (adds little value). (Correct: 0)
 
 - [2025-08-12] Source: `english_lesson_notes/notes/english_lesson_20250812.md` >
   クイッククイズ（Q19）
@@ -18,8 +18,7 @@
 - [2025-08-12] Source: `english_lesson_notes/notes/english_lesson_20250812.md` >
   Anki復習クイズ
   - With two leads on {{c1::leave}}, the odds are stacked against us.（× on
-    leaves） (Correct: 0)
-  - The chances are {{c1::slim to none}}.（× same to none） (Correct: 2)
+    leaves） (Correct: 1)
 
 - [2025-08-11] Source: `english_lesson_notes/notes/english_lesson_20250811.md` >
   Sentence refinements
@@ -33,23 +32,19 @@
 
 - [2025-08-11] Source: Chat (Q13)
   - I had coffee with an engineer from another company. He’s my
-    {{c1::colleague}}.（coworker＝同じ会社） (Correct: 0)
+    {{c1::colleague}}.（coworker＝同じ会社） (Correct: 1)
 
 - [2025-08-11] Source: Chat (Q44)
   - I have hands‑on experience {{c1::with}} Kubernetes.（ツール/技術＝with／分野＝in）
-    (Correct: 1)
+    (Correct: 2)
 
 - [2025-08-11] Source: Chat (Q46)
   - The company recognized her contribution at the {{c1::all‑hands}}
-    (meeting).（× old hands） (Correct: 1)
-
-- [2025-08-11] Source: Chat (Q48)
-  - He had to {{c1::plow}} through a huge backlog of tasks.（BrE:
-    {{c2::plough}}／× plaw） (Correct: 1)
+    (meeting).（× old hands） (Correct: 2)
 
 - [2025-08-11] Source: Chat (Q58)
   - We need to align expectations {{c1::with}} our current capacity.
-    (Correct: 0)
+    (Correct: 1)
 
 - [2025-08-11] Source: Chat (Q59)
   - He decided to opt {{c1::in}} {{c2::to}} the marketing emails.（= opt into）
@@ -65,7 +60,7 @@
   `english_lesson_notes/notes/english_lesson_20250815.md` > Vocabulary &
   Pronunciation
   - A {{c1::sedentary}} lifestyle involves little to no physical activity.
-    (Correct: 1)
+    (Correct: 2)
 
 - [2025-08-15] Source:
   `english_lesson_notes/notes/english_lesson_20250815.md` > Vocabulary &
@@ -102,3 +97,16 @@
 
 - [2025-08-19] Source: english_lesson_notes/notes/english_lesson_20250818.md > Vocabulary & Phrases
   - The decision to build the new highway was highly {{c1::controversial}} and sparked protests across the state. (Correct: 0)
+
+- [2025-08-24] Source: `english_lesson_notes/notes/english_lesson_20250824.md` > Phrases and Idioms
+  - A friend is telling you to hurry up in a very informal way. What two-word phrase might they say? {{c1::Chop chop}} (Correct: 0)
+- [2025-08-24] Source: `english_lesson_notes/notes/english_lesson_20250824.md` > Phrases and Idioms
+  - What is the difference between "on the spot" and "on the dot"? {{c1::"On the dot" means at the exact time. "On the spot" refers to a specific moment or place, meaning immediately or at that location.}} (Correct: 0)
+
+- [2025-08-24] Source: `english_lesson_notes/notes/english_lesson_20250824.md` > Phrases and Idioms
+  - If you start the day in a bad mood, you can say you "woke up on the {{c1::wrong side of the bed}}". (Correct: 0)
+
+- [2025-08-24] Source: `english_lesson_notes/notes/english_lesson_20250824.md` > Phrases and Idioms
+  - He tends to get {{c1::carried away}} when talking about his favorite hobby. (Correct: 0)
+- [2025-08-24] Source: `english_lesson_notes/notes/english_lesson_20250824.md` > Vocabulary
+  - A story that is very interesting because it is mysterious or unusual is {{c1::intriguing}}. (Correct: 0)
