@@ -18,12 +18,7 @@
 - [2025-08-12] Source: `english_lesson_notes/notes/english_lesson_20250812.md` >
   Anki復習クイズ
   - With two leads on {{c1::leave}}, the odds are stacked against us.（× on
-    leaves） (Correct: 1)
-
-- [2025-08-11] Source: `english_lesson_notes/notes/english_lesson_20250811.md` >
-  Sentence refinements
-  - He had to {{c1::plow}} through tasks beyond his pay grade.（BrE:
-    {{c2::plough}}） (Correct: 2)
+    leaves） (Correct: 2)
 
 - [2025-08-11] Source: `english_lesson_notes/notes/english_lesson_20250811.md` >
   New words / phrases
@@ -93,7 +88,7 @@
   - We need to refrigerate the fruit and vegetables right away; they are very {{c1::perishable}}. (Correct: 0)
 
 - [2025-08-19] Source: english_lesson_notes/notes/english_lesson_20250818.md > Vocabulary & Phrases
-  - Our new intern is really {{c1::Gung-ho}} about the project; he volunteered to work on it all weekend. (Correct: 0)
+  - Our new intern is really {{c1::Gung-ho}} about the project; he volunteered to work on it all weekend. (Correct: 1)
 
 - [2025-08-19] Source: english_lesson_notes/notes/english_lesson_20250818.md > Vocabulary & Phrases
   - The decision to build the new highway was highly {{c1::controversial}} and sparked protests across the state. (Correct: 0)
@@ -107,6 +102,39 @@
   - If you start the day in a bad mood, you can say you "woke up on the {{c1::wrong side of the bed}}". (Correct: 0)
 
 - [2025-08-24] Source: `english_lesson_notes/notes/english_lesson_20250824.md` > Phrases and Idioms
-  - He tends to get {{c1::carried away}} when talking about his favorite hobby. (Correct: 0)
+  - He tends to get {{c1::carried away}} when talking about his favorite hobby. (Correct: 1)
 - [2025-08-24] Source: `english_lesson_notes/notes/english_lesson_20250824.md` > Vocabulary
   - A story that is very interesting because it is mysterious or unusual is {{c1::intriguing}}. (Correct: 0)
+
+- [2025-08-26] Source: `notes/english_lesson_20250826.md` > Vocabulary & Idioms
+  - We faced challenges with this project right from the {{c1::get-go}}. (Correct: 0)
+
+- [2025-08-26] Source: `notes/english_lesson_20250826.md` > Vocabulary & Idioms
+  - Renewing my license was such a {{c1::hassle}}; it took the entire afternoon. (Correct: 0)
+
+- [2025-08-26] Source: `notes/english_lesson_20250826.md` > Vocabulary & Idioms
+  - The suspect was finally {{c1::ensnared}} in a complex web of his own lies. (Correct: 0)
+
+- [2025-08-26] Source: `notes/english_lesson_20250826.md` > Vocabulary & Idioms
+  - The child threw a {{c1::tantrum}} right in the middle of the aisle. (Correct: 0)
+
+- [2025-08-26] Source: `notes/english_lesson_20250826.md` > Vocabulary & Idioms
+  - A relationship with a large age gap is called a {{c1::May-December relationship}}. (Correct: 0)
+
+- [2025-08-26] Source: `notes/english_lesson_20250826.md` > Vocabulary & Idioms
+  - We're not close friends; we're just casually {{c1::acquainted}}. (or 'casual {{c2::acquaintances}}') (Correct: 0)
+
+- [2025-08-26] Source: `notes/english_lesson_20250826.md` > Vocabulary & Idioms
+  - What's all that {{c1::ruckus}} about? I'm trying to sleep! (Correct: 0)
+
+- [2025-08-26] Source: `notes/english_lesson_20250826.md` > Vocabulary & Idioms
+  - The material's high {{c1::elasticity}} makes it perfect for this application. (Correct: 0)
+
+- [2025-08-26] Source: `notes/english_lesson_20250826.md` > Translations
+  - A difficult question can {{c1::perplex}} or {{c2::baffle}} a manager. (Correct: 0)
+
+- [2025-08-26] Source: `notes/english_lesson_20250826.md` > Sentence Refinements
+  - The melody and the chords created a very {{c1::harmonious}} sound. (Correct: 0)
+
+- [2025-08-26] Source: `notes/english_lesson_20250826.md` > Sentence Refinements
+  - Her first step was {{c1::isolating}} all the anomalies and strange values. (or {{c2::ensnaring}}) (Correct: 0)
